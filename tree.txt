@@ -1,0 +1,173 @@
+- **An toàn thông tin** (6 files):
+  - An toàn hệ điều hành - 2017.pdf
+  - An toàn và bảo mật hệ thống thông tin - 2017.pdf
+  - An toàn ứng dụng web và cơ sở dữ liệu - 2017.pdf
+  - Bài giảng Các kĩ thuật giấu tin.pdf
+  - Bài giảng Các kỹ thuật giấu tin.pdf
+  - Giáo trình Cơ sở an toàn thông tin - 2018.pdf
+- **Khoa học Dữ liệu và AI** (5 files):
+  - Bài giảng Kho dữ liệu và kỹ thuật khai phá.pdf
+  - Các hệ thống dựa trên tri thức - 2017.pdf
+  - Giáo trình Kho dữ liệu và kỹ thuật khai phá - 2018.pdf
+  - Kho dữ liệu và khai phá dữ liệu - 2014.pdf
+  - Ứng dụng công cụ phân tích dữ liệu - 2017.pdf
+- **Khoa học máy tính và Mạng** (24 files):
+  - BG Cấu trúc dữ liệu và giải thuật - 2016.pdf
+  - Bài giảng Hệ thống nhúng - 2019.pdf
+  - Bài giảng Tổng quan biên tập Web - 2018.pdf
+  - Bài giảng Xây dựng Website thương mại điện tử - 2018.pdf
+  - Bài tập Kỹ thuật lập trình hướng đối tượng.pdf
+  - Bài tập các kĩ thuật lập trình - 2016.pdf
+  - Các kĩ thuật lập trình - 2016.pdf
+  - Cấu trúc dữ liệu và giải thuật - 2013.pdf
+  - Cấu trúc dữ liệu và giải thuật.pdf
+  - Hệ thống nhúng - 2014.pdf
+  - Hệ điều hành - 2015.pdf
+  - Kỹ thuật theo dõi, giám sát an toàn mạng - 2015.pdf
+  - Matlab và ứng dụng - 2014.pdf
+  - Mạng cảm biến - 2014.pdf
+  - Mạng máy tính và internet - 2014.pdf
+  - Ngôn ngữ lập trình C++.pdf
+  - Ngôn ngữ lập trình Java.pdf
+  - Nhập môn trí tuệ nhân tạo - 2015.pdf
+  - Phát triển ứng dụng cho các thiết bị di động.pdf
+  - Phân tích Web - 2016.pdf
+  - Thiết bị ngoại vi và kĩ thuật ghép nối - 2014.pdf
+  - Tin học quản lý - 2016.pdf
+  - Tổng quan về biên tập web - 2016.pdf
+  - Xây dựng các hệ thống nhúng.pdf
+- **Kinh tế và Kinh doanh** (33 files):
+  - Bài giảng Bán lẻ trực tuyến - 2019.pdf
+  - Bài giảng Khởi sự kinh doanh - 2018.pdf
+  - Bài giảng Khởi sự kinh doanh thương mại điện tử - 2019.pdf
+  - Bài giảng Kiểm toán tài chính - 2018.pdf
+  - Bài giảng Logistics căn bản - 2019.pdf
+  - Bài giảng Nghiệp vụ thương mại - 2018.pdf
+  - Bài giảng Nguyên lý thống kê kinh tế - 2017.pdf
+  - Bài giảng Thanh toán quốc tế - 2019.pdf
+  - Bài giảng Thanh toán điện tử - 2019.pdf
+  - Bài giảng Thị trường chứng khoán - 2018.pdf
+  - Bài giảng Thống kê doanh nghiệp - 2019.pdf
+  - Bài giảng Tài chính tiền tệ - 2019.pdf
+  - Bài giảng tổ chức sản xuất trong doanh nghiệp - 2018.pdf
+  - Bìa giảng Khởi sự kinh doanh - 2018.pdf
+  - Các hệ thống thông tin trong doanh nghiệp - 2015.pdf
+  - Các hệ thống thông tin trong doanh nghiệp - 2017.pdf
+  - Hành vi khách hàng - 2014.pdf
+  - Internet và ứng dụng trong kinh doanh - 2016.pdf
+  - Khởi sự kinh doanh - 2014.pdf
+  - Kinh tế vi mô 1 - 2013.pdf
+  - Kiểm toán căn bản - 2015.pdf
+  - Luật kinh doanh - 2015.pdf
+  - Lập và thẩm định dự án đầu tư - 2016.pdf
+  - Lịch sử các học thuyết kinh tế - 2013.pdf
+  - Lịch sử các học thuyết kinh tế - 2019.pdf
+  - Phân tích hoạt động kinh doanh - 2016.pdf
+  - Thanh toán và tín dụng quốc tế - 2014.pdf
+  - Thống kê doanh nghiệp - 2017.pdf
+  - Tài chính tiền tệ - 2014.pdf
+  - Đàm phán kinh doanh - 2020.pdf
+  - Đạo đức kinh doanh và văn hóa doanh nghiệp - 2014.pdf
+  - Định giá doanh nghiệp - 2017.pdf
+  - Ứng dụng đa phương tiện trong kinh doanh - 2014.pdf
+- **Kỹ thuật Điện tử** (14 files):
+  - Cơ sở điều khiển tự động - 2014.pdf
+  - Cơ sở đo lường điện tử - 2014.pdf
+  - Cấu kiện điện tử - 2013.pdf
+  - Giáo trình hệ điều hành - 2013.pdf
+  - Giáo trình phân tích và thiết kế hệ thống thông tin - 2013.pdf
+  - Kỹ thuật Vi xử lý - 2014.pdf
+  - Kỹ thuật logic khả trình PLC - 2014.pdf
+  - Kỹ thuật số - 2013.pdf
+  - Lý thuyết mạch - 2013.pdf
+  - Lý thuyết trường điện từ và siêu cao tần - 2013.pdf
+  - Thiết kế hệ thống VLSI - 2014.pdf
+  - Điện tử số - 2009.pdf
+  - Điện tử số - 2013.pdf
+  - Điện tử tương tự - 2013.pdf
+- **Marketing** (17 files):
+  - Bài giảng Marketing dich vụ - 2009.pdf
+  - Bài giảng Marketing qua phương tiện truyền thông xã hội - 2018.pdf
+  - Bài giảng Phân tích Marketing - 2019.pdf
+  - E-marketing - 2013.pdf
+  - Marketing bằng công cụ tìm kiếm - 2016.pdf
+  - Marketing công nghiệp - 2015.pdf
+  - Marketing căn bản - 2013.pdf
+  - Marketing căn bản - 2017.pdf
+  - Marketing dựa trên giá trị - 2017.pdf
+  - Marketing qua phương tiện truyền thông xã hội - 2016.pdf
+  - Nghiên cứu Marketing - 2013.pdf
+  - Phát triển và ứng dụng web trong marketing - 2017.pdf
+  - Quản trị marketing - 2017.pdf
+  - Sách bài tập Marketing căn bản - 2014.pdf
+  - Sách bài tập Phương pháp nghiên cứu Marketing - 2015.pdf
+  - Truyền thông Marketing - 2017.pdf
+  - Truyền thông Marketing tích hợp - 2017.pdf
+- **Phần mềm và Lập trình** (9 files):
+  - Bài giảng Lập trình hướng đối tượng.pdf
+  - Giáo trình Kiến trúc và thiết kế phần mềm - 2017.pdf
+  - Lập trình mạng - 2013.pdf
+  - Lập trình mạng.pdf
+  - Nhập môn Công nghệ phần mềm - 2016.pdf
+  - Nhập môn công nghệ phần mềm.pdf
+  - Phát triển phần mềm hướng dịch vụ.pdf
+  - Phân tích thiết kế đảm bảo chất lượng phần mềm.pdf
+  - Đảm bảo chất lượng phần mềm.pdf
+- **Quản trị và Quản lý** (20 files):
+  - Bài giảng Quản lý an toàn thông tin.pdf
+  - Bài giảng Quản lý dự án phần mềm.pdf
+  - Bài giảng Quản trị bán hàng và phân phối sản phẩm - 2019.pdf
+  - Bài giảng Quản trị công nghệ - 2018.pdf
+  - Bài giảng Quản trị doanh nghiệp thương mại - 2019.pdf
+  - Bài giảng Quản trị dự án - 2019.pdf
+  - Bài giảng Quản trị kinh doanh bán lẻ trực tuyến - 2018.pdf
+  - Bài giảng Quản trị quan hệ khách hàng - 2019.pdf
+  - Bài giảng Quản trị thương hiệu - 2018.pdf
+  - Quản lý dự án phần mềm - 2014.pdf
+  - Quản trị bán hàng - 2020.pdf
+  - Quản trị chiến lược - 2016.pdf
+  - Quản trị doanh nghiệp - 2016.pdf
+  - Quản trị học - 2016.pdf
+  - Quản trị kinh doanh quốc tế - 2016.pdf
+  - Quản trị nhân lực - 2013.pdf
+  - Quản trị nhân lực - 2017.pdf
+  - Quản trị thương hiệu - 2013.pdf
+  - Quản trị tài chính doanh nghiệp - 2017.pdf
+  - Quản trị văn phòng - 2016.pdf
+- **Thương mại điện tử** (6 files):
+  - Bài giảng Pháp luật thương mại điện tử - 2018.pdf
+  - Bài giảng Phân tích thương mại điện tử và an toàn thông tin - 2019.pdf
+  - Bài giảng Phân tích, thiết kế hệ thống thương mại điện tử - 2019.pdf
+  - Bài giảng Thương mại điện tử căn bản - 2019.pdf
+  - Thương mại điện tử - 2013.pdf
+  - Thương mại điện tử - 2015.pdf
+- **Tin học cơ sở** (4 files):
+  - Tin học cơ sở 1 - 2016.pdf
+  - Tin học cơ sở 2 - 2016.pdf
+  - Tin học cơ sở 3 - 2016.pdf
+  - Tin học cơ sở.pdf
+- **Tiếng Anh** (1 files):
+  - Bài giảng môn tiếng Anh 1 - 2009.pdf
+- **Toán học** (7 files):
+  - Giải tích hàm một biến số (Giải tích 1) - 2013.pdf
+  - Giải tích hàm nhiều biến số (Giải tích 2) - 2013.pdf
+  - Kinh tế lượng - 2016.pdf
+  - Thuật toán và ứng dụng.pdf
+  - Toán kỹ thuật - 2013.pdf
+  - Toán rời rạc 1 - 2016.pdf
+  - Toán rời rạc 2 - 2016.pdf
+- **Truyền thông** (3 files):
+  - Bài giảng Giao tiếp trong kinh doanh - 2020.pdf
+  - Truyền thông nội bộ trong tổ chức - 2017.pdf
+  - Truyền thông số - 2014.pdf
+- **Viễn thông và Xử lý tín hiệu** (2 files):
+  - Công nghệ phát thanh truyền hình số - 2014.pdf
+  - Xử lý tiếng nói - 2014.pdf
+- **Vật lý** (3 files):
+  - Vật lý 1 và thí nghiệm - 2010.pdf
+  - Vật lý 2 và thí nghiệm - 2013.pdf
+  - Vật lý 3 và thí nghiệm - 2013.pdf
+- **Đồ họa và Đa phương tiện** (3 files):
+  - Giáo trình Kĩ thuật đồ họa - 2018.pdf
+  - Giáo trình Kỹ thuật đồ họa - 2018.pdf
+  - Kỹ thuật đồ họa - 2016.pdf
